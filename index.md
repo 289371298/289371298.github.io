@@ -28,7 +28,7 @@ line-height: 0.8;
 </table>
 
 <div class="quote"><p><i>"We choose to go to the Moon in this decade and do the other things, not because they're easy, but because they're hard."<br> -- John F. Kennedy, 1962</i></p></div> 
-
+ 
 # Who am I?
 
 Hi there! I am Kai Yan (颜开 in Chinese), a second-year Ph.D. student in the Department of Computer Science at University of Illinois Urbana-Champaign (UIUC), co-advised by <a href="https://alexander-schwing.de/" title="Prof. Alex G. Schwing">Prof. Alexander Schwing</a> and <a href="https://yxw.web.illinois.edu/" title="Prof. Yu-Xiong Wang">Prof. Yu-Xiong Wang</a>. 
